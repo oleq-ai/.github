@@ -1,9 +1,3 @@
-
----
-
-## 🌍 Public (Open Source) README.md
-
-```markdown
 # Oleq
 
 **Oleq** is a software development company helping businesses transform ideas into digital reality.
